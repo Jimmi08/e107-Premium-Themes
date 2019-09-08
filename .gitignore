@@ -1,5 +1,19 @@
 # Ignore assets, licenced content
 assets/ 
-install/
 elements/ 
 jmtheme/
+footers/
+headers/
+
+
+#ignore e107 stuff
+layouts/ 
+templates/
+languages/
+install/
+theme.html
+theme.php
+theme.xml
+theme_* 
+style* 
+ 
