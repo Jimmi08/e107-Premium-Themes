@@ -1,6 +1,6 @@
 All those themes are in active development and in a different state of finishing.  All depend on 2 custom plugins:
 - **JM Theme Layout Plugin**
-- **JM Theme Elements Plugin**  More info: https://www.e107sk.com/e107-plugins/custom-plugins/jm-elements-plugin
+- **JM Theme Elements Plugin**   
 
 All themes are developed at the same time. The main purpose of this approach is to have fully universal and fully tested mentioned plugins.  The side effect is testing e107 CMS for bootstrap4.
 
