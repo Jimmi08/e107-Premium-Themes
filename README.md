@@ -20,7 +20,8 @@ It's theme based on paid Gaia Bootstrap3 theme.
 # Denice theme
 It's theme based on Paper Kit 2 PRO UI KIT [PREMIUM BOOTSTRAP 4 UI KIT](https://demos.creative-tim.com/paper-kit-2-pro/presentation.html) created by [Creative Tim](https://www.creative-tim.com/.   
 
-
+# Marci theme
+It's theme based on Now UI Kit PRO BS4 [PREMIUM BOOTSTRAP 4 UI KIT](https://www.creative-tim.com/product/now-ui-kit-pro) created by [Creative Tim](https://www.creative-tim.com/.   
 
 
 **General Layout names:**
