@@ -1,21 +1,21 @@
-# [e107 Bootstrap Denice](https://www.e107sk.com/documentation/e107-denice-pro-theme/?cat.142)
+# [e107 Bootstrap Martik](https://www.e107sk.com/documentation/e107-bootstrap-martik-pro-theme/?cat.170)
 
-[Denice](https://www.e107sk.com/documentation/e107-denice-pro-theme/?cat.142) is based by PAPER UI KIT 2 by Creative Tim Live  [PREMIUM BOOTSTRAP 4 UI KIT](https://demos.creative-tim.com/paper-kit-2-pro/presentation.html) created by [Creative Tim](https://www.creative-tim.com/).   
+[Martik](https://www.e107sk.com/documentation/e107-bootstrap-martik-pro-theme/?cat.170) is based on Material Kit Pro [PREMIUM BOOTSTRAP 4 UI KIT](https://www.creative-tim.com/product/material-kit-pro) created by [Creative Tim](https://www.creative-tim.com/).   
 
 ## Warning
 
-in progress  
+in progress
 
 ## Future Preview
 
-**[View Live Preview](https://www.e107sk.com/demo/denice/)**
+**[View Live Preview](https://www.e107sk.com/demo/martik/)**
 
 ## Status
 
 in progress
 
 ## Required plugins
- 
+
 [JM theme](https://www.e107sk.com/easystore/jm-theme-plugin)
 Documentation:  https://www.e107sk.com/documentation/jmtheme-plugin/?cat.98
 

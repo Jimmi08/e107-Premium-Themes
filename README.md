@@ -11,23 +11,20 @@ You can support this development.
 # Ganlum theme 
 It's theme based on free version  BLK Design System [https://demos.creative-tim.com/blk-design-system/index.html](url) with the combination of free admin version
 
-# Material theme 
+# Martik theme 
 It's theme based on paid Material UI Kit  [https://www.creative-tim.com/product/material-kit-pro](url)
 
 # Gaia theme
-It's theme based on paid Gaia theme. It's finished but based on Bootstrap 3.  
+It's theme based on paid Gaia Bootstrap3 theme.   
+
+# Denice theme
+It's theme based on Paper Kit 2 PRO UI KIT [PREMIUM BOOTSTRAP 4 UI KIT](https://demos.creative-tim.com/paper-kit-2-pro/presentation.html) created by [Creative Tim](https://www.creative-tim.com/.   
+
+
+
 
 **General Layout names:**
-- homepage
-- full
-- singlelogin (used for login and password reset pages)
-- singlesignup  (used for signup and coppa reset pages)
-- singlecontact (used for contact page)
-- news
-- rightsidebar
-- leftsidebar 
-- threecolumns
-- raw 
+see new e107 standards 
 
 
 
