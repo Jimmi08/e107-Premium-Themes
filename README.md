@@ -22,6 +22,13 @@ It's theme based on paid Material UI Kit  [https://www.creative-tim.com/product/
 ![img](https://www.e107sk.com/img/preview_gaia_preview.jpg)
 
 
+# [e107 Bootstrap Hestia](https://www.e107sk.com/documentation/e107-hestia-bootstrap-pro-theme/?cat.247)
+
+[Gaia](https://www.e107sk.com/documentation/e107-hestia-bootstrap-pro-theme/?cat.247) is based on [e107 Bootstrap Gaia](https://www.e107sk.com/documentation/e107-gaia-pro-theme/?cat.115), it uses the same elements and it's fully compatible. It has some new features and because this is dark theme, original sass version was completely rewritten. 
+
+
+![img](https://www.e107sk.com/img/preview_hestia_preview.jpg)
+
 
 # Denice theme
 It's theme based on Paper Kit 2 PRO UI KIT [PREMIUM BOOTSTRAP 4 UI KIT](https://demos.creative-tim.com/paper-kit-2-pro/presentation.html) created by [Creative Tim](https://www.creative-tim.com/.   
