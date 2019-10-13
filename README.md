@@ -14,8 +14,14 @@ It's theme based on free version  BLK Design System [https://demos.creative-tim.
 # Martik theme 
 It's theme based on paid Material UI Kit  [https://www.creative-tim.com/product/material-kit-pro](url)
 
-# Gaia theme
-It's theme based on paid Gaia Bootstrap3 theme.   
+# [e107 Bootstrap Gaia](https://www.e107sk.com/documentation/e107-gaia-pro-theme/?cat.115)
+
+[Gaia](https://www.e107sk.com/documentation/e107-gaia-pro-theme/?cat.115) is based on [Gaia Bootstrap Template Pro](https://www.creative-tim.com/product/gaia-bootstrap-template-pro) created by [Creative Tim](https://www.creative-tim.com/).   
+
+
+![img](https://www.e107sk.com/img/preview_gaia_preview.jpg)
+
+
 
 # Denice theme
 It's theme based on Paper Kit 2 PRO UI KIT [PREMIUM BOOTSTRAP 4 UI KIT](https://demos.creative-tim.com/paper-kit-2-pro/presentation.html) created by [Creative Tim](https://www.creative-tim.com/.   
