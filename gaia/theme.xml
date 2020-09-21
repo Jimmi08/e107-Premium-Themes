@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Gaia" version="2.5.2" date="2020-09-21" compatibility="2.2">
+	<author name ="Jimako" email="jimako@jimako.sk" url="https://www.e107sk.com" />
+	<summary>Gaia is e107 Bootstrap theme base on HTML Gaia Pro theme by creative-tim.</summary>
+	<description>This theme requires 2 custom plugins for full functionality.</description>
+	<category>generic</category>
+	<plugins>
+		<plugin name='gallery' url='core' />
+		<plugin name='social' url='core' />
+		<plugin name='jmtheme' url='' />
+		<plugin name='jmelements' url='' />
+	</plugins>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<screenshots>
+		<image>preview_frontend.png</image>
+		<image>preview_responsive.png</image>
+		<image>gaia_light_freen.jpg</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="Default"  />
+		<css file="style-light-green.css" name="Light Green"  />
+	</stylesheets>
+	<layouts>
+		<layout name='homepage' title='Homepage Option 1' default='false'>
+			<custompages>FRONTPAGE</custompages>	
+		</layout>
+		<layout name='singlecontact' title='Contact page' default='false'  >
+       <custompages>contact</custompages>    
+		</layout>		
+		<layout name='full' title='Full width page' default='true'>
+		  <custompages>page, forum</custompages>
+		</layout>
+		<layout name='singlelogin' title='Login page' default='false'>
+    <custompages>login</custompages>
+		</layout>
+		<layout name='singlesignup' title='Register page' default='false'>
+    <custompages>signup</custompages>
+		</layout>
+		<layout name='news' title='Blog page' default='false'>
+    <custompages>news</custompages>
+		</layout>
+		<layout name='rightsidebar' title='Sidebar right' default='false'>
+       <custompages>gallery</custompages>
+    </layout>
+		<layout name='raw' title='Example page' default='false'>
+    <custompages>example</custompages>
+		</layout>
+	</layouts>
+	<glyphicons>
+		<glyph name='pixeden' pattern='\.(pe-7s-[a-z-0-9]*):before\{'  path='assets/css/fonts/pe-icon-7-stroke.css' class='pe' prefix='pe-7s-'   tag='span' />
+	</glyphicons>
+</e107Theme>
