@@ -30,11 +30,7 @@
 
 	$nobody_regexp = "'(^|,)(" . str_replace(",", "|", e_UC_NOBODY) . ")(,|$)'";
  
- 
-    $where = "WHERE n.news_class IN (".USERCLASS_LIST.") AND n.news_start < ".$_t." AND (n.news_end=0 || n.news_end>".$_t.")
-		AND FIND_IN_SET(1, n.news_render_type) ";
- 
-   $query = "SELECT n.*, u.user_id, u.user_name, u.user_customtitle, nc.category_id, nc.category_name, nc.category_sef, nc.category_icon FROM #news AS n
+    $query = "SELECT n.*, u.user_id, u.user_name, u.user_customtitle, nc.category_id, nc.category_name, nc.category_sef, nc.category_icon FROM #news AS n
 			LEFT JOIN #user AS u ON n.news_author = u.user_id
 			LEFT JOIN #news_category AS nc ON n.news_category = nc.category_id
 			WHERE n.news_class IN (".USERCLASS_LIST.") AND n.news_start < ".time()." AND (n.news_end=0 || n.news_end>".time().") 
@@ -57,7 +53,7 @@
 	$text = '';
 	$nav = array();
 
-    //pocitam po 3 
+    //counted by 3 
     $i = 0;
 	foreach($data as $row)
 	{
