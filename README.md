@@ -1,4 +1,4 @@
-## New repos for free themes
+## New repos for all themes
 
 https://github.com/e107-themes
 
