@@ -1,3 +1,15 @@
+## New repos for free themes
+
+https://github.com/e107-themes
+
+Information bellow are oudated.  After changes in e107 2.3.1 those plugins don't work, so neither themes.
+
+Only this list is updated after fixing those themes:
+
+https://github.com/e107-themes/e107-Themes-list
+
+*** IGNORE information bellow ***
+
 All those themes are in active development and in a different state of finishing.  All depend on 2 custom plugins:
 - **JM Theme Layout Plugin**
 - **JM Theme Elements Plugin**   
@@ -22,7 +34,7 @@ It's theme based on paid Material UI Kit  [https://www.creative-tim.com/product/
 ![img](https://www.e107sk.com/img/preview_gaia_preview.jpg)
 
 
-# [e107 Bootstrap Hestia](https://www.e107sk.com/documentation/e107-hestia-bootstrap-pro-theme/?cat.247)
+# e107 Bootstrap Hestia]
 
 [Hestia](https://www.e107sk.com/themes/hestia-theme) is based on [Gaia Bootstrap Template Pro](https://www.creative-tim.com/product/gaia-bootstrap-template-pro) created by [Creative Tim](https://www.creative-tim.com/). Dark version.
 
